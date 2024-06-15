@@ -71,16 +71,18 @@ df_transposed.to_excel(output_file, index=True, header=False)
 ### Results/Findings
 The analysis results are summarized as follows:
 
-1. Private cars have the highest number of casualties.
-2. Single carriageways have the highest number of casualties.
+1. The age group of 31-33 has the highest number of employees attriting the company.
+2. The R&D department has the largest count of employees leaving the organization.
+3. The level of education in Life Sciences dominates the employee attrition rates.
 
 ### Recommendations
 Based on the analysis, we recommend the following actions:
 
-1. Advocate for stricter safety regulations and regular vehicle inspections to ensure all private cars meet high safety standards.
-2. Implement more comprehensive driver education programs focusing on defensive driving techniques, awareness of road safety, and adherence to traffic laws.
-3. Invest in improving road conditions, including better signage, road markings, and lighting, as well as the design and maintenance of safer roadways.
-4. Conduct detailed safety assessments of high-casualty locations to identify specific risk factors contributing to accidents.
+1. Conducting exit interviews or surveys with employees 
+2. Assess the workload and stress levels.
+3. Recognize and reward the contributions of employees to boost morale and job satisfaction.
+4. Foster open communication channels within the employees and encourage feedback from employees.
 
 ### Limitations
-The accident data often lacks detailed context, such as road conditions, driver behaviors, and environmental factors, which are crucial for a comprehensive analysis of the causes and consequences of accidents.
+- Attrition data might not always be accurately recorded or updated in HR systems, leading to discrepancies in the actual attrition rates.
+- Some employees may leave without formal notification or without the HR department's knowledge, resulting in missing data points and incomplete records.
